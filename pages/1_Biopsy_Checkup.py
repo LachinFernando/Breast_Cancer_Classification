@@ -15,12 +15,12 @@ IMG_SIZE = (224, 224)
 IMAGE_NAME = "user_image_biopsy.png"
 BIOPSY_LABELS = [
     "Adenosis",
-    "Fobroadenoma",
+    "Fibroadenoma",
     "Lobular Carcinoma",
     "Mucinous Carcinoma",
     "Papillary Carcinoma",
     "Phyllodes Tumor",
-    "Tubular Adenona"
+    "Tubular Adenoma"
 ]
 BIOPSY_LABELS.sort()
 
